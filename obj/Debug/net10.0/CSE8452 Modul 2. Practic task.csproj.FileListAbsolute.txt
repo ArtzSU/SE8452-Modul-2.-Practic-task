@@ -1,0 +1,14 @@
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/bin/Debug/net10.0/CSE8452 Modul 2. Practic task
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/bin/Debug/net10.0/CSE8452 Modul 2. Practic task.deps.json
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/bin/Debug/net10.0/CSE8452 Modul 2. Practic task.runtimeconfig.json
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/bin/Debug/net10.0/CSE8452 Modul 2. Practic task.dll
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/bin/Debug/net10.0/CSE8452 Modul 2. Practic task.pdb
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/CSE8452 Modul 2. Practic task.GeneratedMSBuildEditorConfig.editorconfig
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/CSE8452 Modul 2. Practic task.AssemblyInfoInputs.cache
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/CSE8452 Modul 2. Practic task.AssemblyInfo.cs
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/CSE8452 Modul 2. Practic task.csproj.CoreCompileInputs.cache
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/CSE8452 Modul 2. Practic task.dll
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/refint/CSE8452 Modul 2. Practic task.dll
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/CSE8452 Modul 2. Practic task.pdb
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/CSE8452 Modul 2. Practic task.genruntimeconfig.cache
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/ref/CSE8452 Modul 2. Practic task.dll

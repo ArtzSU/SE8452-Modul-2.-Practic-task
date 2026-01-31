@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CSE8452 Modul 2. Practic task/1.0.0": {
+        "runtime": {
+          "CSE8452 Modul 2. Practic task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSE8452 Modul 2. Practic task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
