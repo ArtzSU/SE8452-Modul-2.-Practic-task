@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSE8452 Modul 2. Practic task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5b42b45f3dd754a1c9e930579db251f76b11b51")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSE8452 Modul 2. Practic task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSE8452 Modul 2. Practic task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@
 /home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/CSE8452 Modul 2. Practic task.pdb
 /home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/CSE8452 Modul 2. Practic task.genruntimeconfig.cache
 /home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/ref/CSE8452 Modul 2. Practic task.dll
+/home/artz/CSE8452/CSE8452 Modul 2. Practic task/obj/Debug/net10.0/CSE8452 Modul 2. Practic task.sourcelink.json
